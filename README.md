@@ -15,6 +15,16 @@ The GitHub Copilot Metrics Viewer provides comprehensive analytics through an in
   <img width="800" alt="Main Dashboard Overview" src="./images/main-metrics-dashboard.png">
 </p>
 
+## Documentation
+
+For a comprehensive understanding of the system architecture, API integrations, and data flows, see:
+
+- **[GitHub API Architecture Documentation](docs/GITHUB_API_ARCHITECTURE.md)** - Deep dive into:
+  - Complete list of GitHub API endpoints and response formats
+  - Detailed API call sequences for different user scenarios
+  - Data transformation pipeline and caching strategies
+  - How data is joined, aggregated, and visualized
+
 ## New Features
 
 ### Date Range Filtering (up to 100 days)
